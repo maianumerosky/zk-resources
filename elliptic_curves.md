@@ -8,4 +8,8 @@
 - [BLS12-381 For The Rest Of Us (Ben Edginton)](https://hackmd.io/@benjaminion/bls12-381#BLS12-381-For-The-Rest-Of-Us)
 - [Exploring Elliptic Curve Pairings (Vitalik Buterin)](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
 - [An Introduction to Pairing-Based Cryptography (Alfred Menezes)](https://www.math.uwaterloo.ca/~ajmeneze/publications/pairings.pdf)
-- [Pairing-based cryptography (Ran Canetti and Ron Rivest)] https://courses.csail.mit.edu/6.897/spring04/L25.pdf
+- [Pairing-based cryptography (Ran Canetti and Ron Rivest)](https://courses.csail.mit.edu/6.897/spring04/L25.pdf)
+- [A taxonomy of pairing-friendly curves (David Freeman)](https://eprint.iacr.org/2006/372.pdf)
+- [Explicit-Formulas Database for EC](https://www.hyperelliptic.org/EFD/)
+- [Elliptic Curves Number Theory and Cryptography Second Edition - Kenneth H. Rosen](https://people.cs.nctu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
+
